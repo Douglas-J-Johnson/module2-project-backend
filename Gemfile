@@ -45,4 +45,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'cloudinary'
 
 #gem for CarrierWave
-gem 'carrierwave', '~> 2.0'
+gem 'carrierwave', '~> 2.1'
